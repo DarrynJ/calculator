@@ -95,8 +95,8 @@
 		D8B6A65925E2354A0073157A /* calculator */ = {
 			isa = PBXGroup;
 			children = (
-				D8B6A65A25E2354A0073157A /* calculatorApp.swift */,
 				D8B6A65C25E2354A0073157A /* ContentView.swift */,
+				D8B6A65A25E2354A0073157A /* calculatorApp.swift */,
 				D8B6A65E25E2354B0073157A /* Assets.xcassets */,
 				D8B6A66325E2354B0073157A /* Info.plist */,
 				D8B6A66025E2354B0073157A /* Preview Content */,
